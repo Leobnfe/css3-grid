@@ -10,8 +10,8 @@ h1 {
 }
 
 .grid-container {
-    border: 1rem solid rgb(20, 131, 134);
-    background-color: #000;
+    border: 1rem solid rgba(15, 107, 110, 0.568);
+    background-color: #1fbcd8;
     height: 48rem;
     width: 48rem;
     margin: 0 auto;
